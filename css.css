@@ -1,0 +1,85 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background: black;
+}
+.head{
+    width: 100%;
+    background: rgb(0, 0, 0);
+}
+.home{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 17%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    border-bottom: 0px solid yellowgreen;
+}
+.merch{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 21%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    border-bottom: 0px solid yellowgreen;
+}
+.drink{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 26%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    border-bottom: 0px solid yellowgreen;
+    
+}
+.img{
+    position: absolute;
+    left: 10%;
+}
+.pulsante{
+    text-decoration: none;
+    width: 130px;
+    height: 40px;
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 3px;
+    position: absolute;
+    top: 75%;
+    left: 15%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.home:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.merch:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.drink:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.foto{
+    position: absolute;
+    top: 1%;
+    left: 90%;
+    border-radius: 50px;
+}
+
+
+

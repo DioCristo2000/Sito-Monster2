@@ -1,0 +1,190 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background: black;
+}
+.head{
+    width: 100%;
+    background: black;
+}
+.home{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 17%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.merch{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 21%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.drink{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 26%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.home:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.merch:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.drink:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.lattina1{
+    position: absolute;
+    top: 14%;
+    left: 5%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo1{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 30%;
+}
+.lattina2{
+    position: absolute;
+    top: 14%;
+    left: 40%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo2{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 34%;
+}
+.lattina3{
+    position: absolute;
+    top: 14%;
+    left: 75%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo3{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 30%;
+}
+.lattina4{
+    position: absolute;
+    top: 80%;
+    left: 4%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo4{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 30%;
+}
+.lattina5{
+    position: absolute;
+    top: 79%;
+    left: 40%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo5{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 34%;
+}
+.lattina6{
+    position: absolute;
+    top: 79%;
+    left: 75%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo6{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 30%;
+}
+.lattina7{
+    position: absolute;
+    top: 140%;
+    right: 608%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo7{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 26%;
+}
+.lattina8{
+    position: absolute;
+    top: 1%;
+    left: 360%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo8{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 26%;
+}
+.lattina9{
+    position: absolute;
+    top: 1%;
+    left: 310%;
+    text-align: center;
+    cursor: pointer;
+    color: yellowgreen;
+}
+.prezzo9{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 26%;
+}
+

@@ -1,0 +1,185 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background: black;
+}
+.head{
+    width: 100%;
+    background: black;
+}
+.home{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 17%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.merch{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 21%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.drink{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 26%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+.felpa1{
+    position: absolute;
+    top: 14%;
+    left: 5%;
+    text-align: center;
+    cursor: pointer;
+}
+h2{
+    color: yellowgreen;
+}
+.felpa2{
+    position: absolute;
+    top: 16%;
+    left: 40%;
+    text-align: center;
+    cursor: pointer;
+}
+.felpa3{
+    position: absolute;
+    top: 13%;
+    left: 75%;
+    text-align: center;
+    cursor: pointer;
+}
+.maglia1{
+    position: absolute;
+    top: 80%;
+    left: 4%;
+    text-align: center;
+    cursor: pointer;
+}
+.maglia2{
+    position: absolute;
+    top: 79%;
+    left: 37%;
+    text-align: center;
+    cursor: pointer;
+}
+.maglia3{
+    position: absolute;
+    top: 79%;
+    left: 75%;
+    text-align: center;
+    cursor: pointer;
+}
+.cap1{
+    position: absolute;
+    top: 140%;
+    left: 4%;
+    text-align: center;
+    cursor: pointer;
+}
+.cap2{
+    position: absolute;
+    top: 140%;
+    left: 37%;
+    text-align: center;
+    cursor: pointer;
+}
+.home:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.merch:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.drink:hover{
+    border-bottom: 5px solid yellowgreen;
+    color: yellowgreen;
+    transition: .1s;
+    transition-timing-function: cubic-bezier(.61,.22,.72,1.52);
+}
+.cap3{
+    position: absolute;
+    top: 140%;
+    left: 71%;
+    text-align: center;
+    cursor: pointer;
+}
+.testo1{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 35%;
+}
+.testo2{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 30%;
+}
+.testo3{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 35%;
+}
+.testo4{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 35%;
+}
+.testo5{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 38%;
+}
+.testo6{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 35%;
+}
+.testo7{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 35%;
+}
+.testo8{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 37%;
+}
+.testo9{
+    color: white;
+    background: yellowgreen;
+    width: 100px;
+    position: absolute;
+    left: 39%;
+}
+
+
